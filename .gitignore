@@ -1,0 +1,10 @@
+node_modules/
+vendor/
+.bundle/
+articles/sg0/
+redpen-distribution-*/
+temp/
+
+articles/*.pdf
+npm-debug.log
+redpen-*.tar.gz
